@@ -1,0 +1,5 @@
+# Required
+Pillow>=9.0
+numpy>=1.21
+# Optional: face detection + GrabCut matting (auto-degrades if missing)
+# opencv-python>=4.5
