@@ -2,6 +2,10 @@
   <img src="assets/cover.jpg" alt="漫画故事封面" width="320">
 </p>
 
+<p align="center">
+  <img src="assets/social-preview.png" alt="GitHub 社交预览图（链接分享缩略图）" width="480">
+</p>
+
 # 漫画故事（Comic Story）
 
 **Turn one real photo into a Japanese-comic-style illustration with dialogue, SFX and emotion symbols — a single panel that already tells a story.**
